@@ -14,7 +14,7 @@
     "shelljs": "0.8.2",
     "ts-node": "~5.0.0",
     "tslint": "~5.13.0",
-    "tslint-no-circular-imports": "~0.6.1",
+    "tslint-no-circular-imports": "~0.7.0",
     "typescript": "3.3.3333",
     "yalc": "~1.0.0-pre.21"
   },
